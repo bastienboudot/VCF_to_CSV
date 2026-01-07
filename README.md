@@ -1,6 +1,6 @@
 # VCF to CSV Converter (Excel-Safe, Multi-Phone)
 
-Download the [lastest release here](https://github.com/Fozzy2269/VCF_to_CSV/releases/latest)
+Download the [lastest release here](https://github.com/bastienboudot/VCF_to_CSV/releases/latest)
 
 ## Overview
 
